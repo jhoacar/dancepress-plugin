@@ -1,0 +1,50 @@
+header{display:none;}
+#secondary{display:none;}
+
+
+.ww-receipt{width:700px;margin-bottom:50px;border-bottom:1px solid #ccc;}
+@media print{
+	.ww-receipt{page-break-after: always; page-break-inside: avoid; border:0px; position: relative;}
+	.wrap {position: relative;}
+}
+
+.w-receipt{width:100%;}
+.w-receipt span.header{font-weight:bold;}
+
+.w-receipt .row-logo{}
+.w-receipt .row-logo 	td{border:0px;}
+.w-receipt .row-logo 	.logo{}
+.w-receipt .row-logo	.receipt-detail{vertical-align:top;}
+
+.w-receipt .row-address{}
+.w-receipt .row-address td{border:0px;}
+.w-receipt .row-address	.address{}
+
+.w-receipt .row-client{}
+.w-receipt .row-client 	td{border:0px;padding-top:30px;}
+.w-receipt .row-client 	.client-detail{}
+.w-receipt .row-client 	.client-paymentmethod{vertical-align:top;}
+
+.w-receipt .row-student{}
+.w-receipt .row-student	td{border:0px;padding-top:30px;}
+.w-receipt .row-student .student-birthdays-title{}
+.w-receipt .row-student .student-birthdays{}
+
+.w-receipt .row-item-header{}
+.w-receipt .row-item-header th{padding-top:30px;text-align:left;}
+.w-receipt .row-item-header th.item{}
+.w-receipt .row-item-header th.price{width:60px;}
+.w-receipt .row-item-header th.total{width:60px;}
+.w-receipt .row-item-item{}
+
+
+.w-receipt .row-total{}
+.w-receipt .row-total td:first-child, .w-receipt .row-subtotal td:first-child{text-align:right;}
+.w-receipt .row-total {font-weight:bold;}
+/*
+.w-receipt .row-totals{}
+.w-receipt .row-totals > td{border:0px;padding:10px 0px 0px 0px;}
+.w-receipt .row-totals td table{float:right;}
+.w-receipt .row-totals	.row-total{}
+.w-receipt .row-totals	.row-total td.total{width:60px;}*/
+

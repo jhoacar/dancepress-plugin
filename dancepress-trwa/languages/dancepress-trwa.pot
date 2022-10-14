@@ -1,0 +1,3324 @@
+# Copyright (C) 2019 TannerRitchie Web Applications/DancePress
+# This file is distributed under the same license as the DancePress (trwa) plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: DancePress (trwa) 1.1908050\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/dancepress-trwa\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-08-21T19:27:10-04:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.2.0\n"
+
+#. Plugin Name of the plugin
+msgid "DancePress (trwa)"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "http://dancepress.ca/"
+msgstr ""
+
+#. Description of the plugin
+msgid "DancePress offers a complete solution for dance schools looking for an attractive WordPress website integrated with a powerful Dance School Management Application."
+msgstr ""
+
+#. Author of the plugin
+msgid "TannerRitchie Web Applications/DancePress"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://dancepress.ca"
+msgstr ""
+
+#: views/admin-scheduled-done__premium_only.php:1
+msgid "Payments Processed Successfully"
+msgstr ""
+
+#: views/admin-scheduled-done__premium_only.php:3
+#: views/admin-scheduled-errors__premium_only.php:3
+msgid "Do not click the back button or reload."
+msgstr ""
+
+#: views/admin-scheduled-done__premium_only.php:6
+#: views/admin-scheduled-errors__premium_only.php:46
+msgid " Continue"
+msgstr ""
+
+#: views/admin-editclasscategory.php:1
+msgid "Edit Class to the database"
+msgstr ""
+
+#: views/admin-editclasscategory.php:23
+#: views/admin-editchildclass.php:13
+#: views/admin-addclass.php:15
+#: views/admin-assignclass.php:65
+#: views/admin-editclass.php:25
+msgid "Field"
+msgstr ""
+
+#: views/admin-editclasscategory.php:24
+#: views/admin-editchildclass.php:14
+#: views/admin-addclass.php:16
+#: views/admin-editclass.php:26
+msgid "Value"
+msgstr ""
+
+#: views/admin-editclasscategory.php:29
+msgid "Class Category Name"
+msgstr ""
+
+#: views/admin-editclasscategory.php:37
+#: views/admin-editchildclass.php:46
+#: views/admin-addclass.php:174
+#: views/admin-addclasscategory.php:26
+msgid "Submit"
+msgstr ""
+
+#: views/admin-editclasscategory.php:53
+#: views/admin-addclasscategory.php:42
+#: views/admin-addchild.php:117
+#: views/admin-addchild.php:118
+#: views/admin-addchild.php:119
+#: views/admin-editclass.php:213
+#: views/admin-editclass.php:214
+#: views/admin-editclass.php:215
+#: views/admin-editclass.php:216
+#: views/admin-editclass.php:217
+#: views/admin-editclass.php:218
+#: views/admin-editclass.php:219
+msgid "required"
+msgstr ""
+
+#: views/admin-editclasscategory.php:60
+#: views/admin-addclasscategory.php:48
+msgid "Please enter Class Category Name"
+msgstr ""
+
+#: views/admin-scheduled-errors__premium_only.php:1
+msgid "Error(s) encountered during processing payments"
+msgstr ""
+
+#: views/admin-scheduled-errors__premium_only.php:5
+msgid "The following errors were encountered while processing payments. All other payments completed successfully."
+msgstr ""
+
+#: views/admin-scheduled-errors__premium_only.php:6
+msgid "Client Transaction Details"
+msgstr ""
+
+#: views/admin-scheduled-errors__premium_only.php:21
+msgid "Type"
+msgstr ""
+
+#: views/admin-scheduled-errors__premium_only.php:22
+#: views/admin-sendemail__premium_only.php:38
+msgid "Message"
+msgstr ""
+
+#: views/admin-scheduled-errors__premium_only.php:23
+msgid "Client details"
+msgstr ""
+
+#: views/admin-editchildclass.php:1
+msgid "Edit Single Class"
+msgstr ""
+
+#: views/admin-editchildclass.php:19
+msgid "Course Name"
+msgstr ""
+
+#: views/admin-editchildclass.php:23
+#: views/admin-viewclass.php:12
+#: views/admin-addclass.php:25
+#: views/admin-listclass.php:41
+#: views/admin-listchildclass.php:12
+#: views/viewclass.php:12
+#: views/admin-addrecommendedcourse-selectcourse.php:12
+#: views/admin-editclass.php:35
+msgid "Class Room"
+msgstr ""
+
+#: views/admin-editchildclass.php:27
+msgid "Date "
+msgstr ""
+
+#: views/admin-editchildclass.php:31
+#: views/admin-viewclass.php:29
+#: views/admin-addclass.php:88
+#: views/viewclass.php:29
+#: views/admin-editclass.php:119
+msgid "Start Time "
+msgstr ""
+
+#: views/admin-editchildclass.php:35
+#: views/admin-viewclass.php:33
+#: views/viewclass.php:33
+#: views/admin-editclass.php:123
+msgid "End Time "
+msgstr ""
+
+#: views/admin-editchildclass.php:39
+#: views/admin-viewclass.php:37
+#: views/admin-addclass.php:147
+#: views/admin-addevent.php:47
+#: views/admin-editevent.php:49
+#: views/viewclass.php:37
+#: views/admin-editclass.php:127
+msgid "Description"
+msgstr ""
+
+#: views/admin-viewclass.php:8
+#: views/admin-addclass.php:21
+#: views/admin-listclass.php:38
+#: views/admin-listchildclass.php:11
+#: views/viewclass.php:8
+#: views/admin-addrecommendedcourse-selectcourse.php:10
+#: views/admin-editclass.php:31
+msgid "Class Name"
+msgstr ""
+
+#: views/admin-viewclass.php:16
+#: views/admin-addclass.php:29
+#: views/viewclass.php:16
+#: views/admin-editclass.php:39
+msgid "Class Categories"
+msgstr ""
+
+#: views/admin-viewclass.php:21
+#: views/admin-addclass.php:68
+#: views/viewclass.php:21
+#: views/admin-editclass.php:98
+msgid "Start Date "
+msgstr ""
+
+#: views/admin-viewclass.php:25
+#: views/admin-addclass.php:72
+#: views/viewclass.php:25
+#: views/admin-editclass.php:102
+msgid "End Date "
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:2
+msgid "2. Student Details"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:4
+#: views/reg_stage4__premium_only.php:6
+#: views/reg_stage3__premium_only.php:3
+msgid "Our online registration tool will guide you through a simple 4 step process to successfully register your student with"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:7
+#: views/reg_stage1__premium_only.php:25
+#: views/reg_stage1__premium_only.php:42
+#: views/reg_stage22__premium_only.php:5
+#: views/reg_stage4__premium_only.php:9
+#: views/reg_stage3__premium_only.php:6
+msgid "Parent/Guardian Details"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:8
+#: views/reg_stage1__premium_only.php:26
+#: views/reg_stage3__premium_only.php:7
+msgid "Student Details"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:9
+#: views/reg_stage1__premium_only.php:27
+#: views/reg_stage4__premium_only.php:10
+#: views/reg_stage3__premium_only.php:8
+msgid "Select Your Class(es)"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:10
+#: views/reg_stage1__premium_only.php:28
+#: views/reg_stage4__premium_only.php:11
+#: views/reg_stage3__premium_only.php:9
+msgid "Payment Information"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:13
+msgid "JavaScript appears to be disabled in your browser. You will need to enable JavaScript in order to register."
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:16
+msgid "Please select <span style=\"text-decoration: underline;\">all</span> the students you would like to register"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:49
+msgid " - Student Details:"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:53
+#: views/reg_stage2__premium_only.php:352
+#: views/reg_stage22__premium_only.php:65
+msgid "Student's first name*"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:62
+#: views/reg_stage2__premium_only.php:360
+#: views/reg_stage22__premium_only.php:73
+msgid "Student's last name*"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:70
+#: views/reg_stage2__premium_only.php:368
+#: views/reg_stage22__premium_only.php:81
+msgid "Gender*"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:81
+#: views/reg_stage2__premium_only.php:379
+#: views/reg_stage22__premium_only.php:92
+msgid "Date of Birth*"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:87
+#: views/reg_stage2__premium_only.php:383
+#: views/reg_stage22__premium_only.php:96
+#: views/admin-classenrollment.php:20
+msgid "Day"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:93
+#: views/reg_stage2__premium_only.php:389
+#: views/reg_stage22__premium_only.php:102
+msgid "Month"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:108
+#: views/reg_stage2__premium_only.php:404
+#: views/reg_stage22__premium_only.php:117
+msgid "Year"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:120
+msgid "Allergies/Medical Information:"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:122
+msgid "Does this student have any allergies or medical information of which we should be aware?"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:129
+#: views/reg_stage2__premium_only.php:426
+msgid "I am interested in registering this dancer for the following types of dance class(es)"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:151
+msgid " years experience in Acrojazz)"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:236
+#: views/reg_stage2__premium_only.php:457
+msgid "Same address as account holder?"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:240
+#: views/reg_stage2__premium_only.php:461
+#: views/reg_stage22__premium_only.php:132
+msgid "Yes"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:241
+#: views/reg_stage2__premium_only.php:462
+#: views/reg_stage22__premium_only.php:133
+msgid "No"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:247
+#: views/reg_stage2__premium_only.php:468
+#: views/reg_stage22__premium_only.php:139
+#: views/parentprofile__premium_only.php:37
+msgid "Street Address*"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:255
+#: views/reg_stage2__premium_only.php:476
+#: views/admin-addclients.php:66
+#: views/reg_stage1__premium_only.php:76
+#: views/reg_stage22__premium_only.php:147
+#: views/parentprofile__premium_only.php:45
+msgid "Street Address 2"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:263
+#: views/reg_stage2__premium_only.php:484
+#: views/reg_stage22__premium_only.php:155
+#: views/parentprofile__premium_only.php:53
+msgid "City*"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:271
+#: views/reg_stage2__premium_only.php:492
+#: views/reg_stage22__premium_only.php:163
+#: views/parentprofile__premium_only.php:61
+msgid "Postal code*"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:279
+#: views/reg_stage2__premium_only.php:500
+#: views/reg_stage22__premium_only.php:171
+#: views/parentprofile__premium_only.php:69
+msgid "Province, Country"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:282
+#: views/reg_stage2__premium_only.php:503
+#: views/reg_stage22__premium_only.php:174
+msgid "Ontario, Canada"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:287
+#: views/reg_stage2__premium_only.php:508
+#: views/admin-addclients.php:359
+#: views/reg_stage22__premium_only.php:179
+#: views/parentprofile__premium_only.php:77
+msgid "Phone (primary)*"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:295
+#: views/reg_stage2__premium_only.php:516
+#: views/admin-addclients.php:368
+#: views/reg_stage1__premium_only.php:109
+#: views/reg_stage22__premium_only.php:187
+#: views/parentprofile__premium_only.php:85
+msgid "Phone (secondary)"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:315
+msgid "Would you like to register any additional students?"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:317
+#: views/reg_stage22__premium_only.php:20
+msgid "How many student dancers do you wish to register?*"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:320
+#: views/admin-addevent.php:23
+#: views/admin-editevent.php:25
+#: views/reg_stage1__premium_only.php:142
+#: views/reg_stage22__premium_only.php:24
+#: views/reg_stage22__premium_only.php:40
+#: views/admin-editstudent.php:223
+#: views/admin-options.php:55
+#: views/admin-options.php:84
+#: views/admin-options.php:334
+msgid "Select"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:328
+msgid "student(s)"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:348
+#: views/reg_stage22__premium_only.php:61
+msgid "Student xxx details:"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:372
+#: views/reg_stage22__premium_only.php:85
+#: views/admin-addchild.php:43
+msgid "Female"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:373
+#: views/reg_stage22__premium_only.php:86
+#: views/admin-addchild.php:44
+msgid "Male"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:390
+#: views/reg_stage22__premium_only.php:103
+msgid "January"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:391
+#: views/reg_stage22__premium_only.php:104
+msgid "February"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:392
+#: views/reg_stage22__premium_only.php:105
+msgid "March"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:393
+#: views/reg_stage22__premium_only.php:106
+msgid "April"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:394
+#: views/reg_stage22__premium_only.php:107
+msgid "May"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:395
+#: views/reg_stage22__premium_only.php:108
+msgid "June"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:396
+#: views/reg_stage22__premium_only.php:109
+msgid "July"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:397
+#: views/reg_stage22__premium_only.php:110
+msgid "August"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:398
+#: views/reg_stage22__premium_only.php:111
+msgid "September"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:399
+#: views/reg_stage22__premium_only.php:112
+msgid "October"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:400
+#: views/reg_stage22__premium_only.php:113
+msgid "November"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:401
+#: views/reg_stage22__premium_only.php:114
+msgid "December"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:414
+msgid "Allergies/Medical Information"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:415
+msgid "Does this student have any allergies or medical information of which we should be aware"
+msgstr ""
+
+#: views/reg_stage2__premium_only.php:450
+msgid " years experience in"
+msgstr ""
+
+#: views/admin-billingreceipt-selectpayment__premium_only.php:1
+msgid "Select Payments to Print"
+msgstr ""
+
+#: views/admin-billingreceipt-selectpayment__premium_only.php:13
+#: views/admin-billing-update__premium_only.php:87
+#: views/admin-billing-update-comp__premium_only.php:92
+#: views/parentbillinghistory__premium_only.php:21
+#: views/admin-manageparents.php:52
+#: views/admin-manageparents.php:77
+#: views/reg_stage4__premium_only.php:77
+msgid "Installment"
+msgstr ""
+
+#: views/admin-billingreceipt-selectpayment__premium_only.php:22
+msgid "Show receipts"
+msgstr ""
+
+#: views/admin-createcustomclasslist.php:1
+msgid "Create Custom Class List"
+msgstr ""
+
+#: views/admin-createcustomclasslist.php:10
+msgid "Primary Phone"
+msgstr ""
+
+#: views/admin-createcustomclasslist.php:11
+msgid "Secondary Phone"
+msgstr ""
+
+#: views/admin-createcustomclasslist.php:12
+msgid "Parent Firstname"
+msgstr ""
+
+#: views/admin-createcustomclasslist.php:13
+msgid "Parent Lastname"
+msgstr ""
+
+#: views/admin-createcustomclasslist.php:14
+msgid "Primary Email"
+msgstr ""
+
+#: views/admin-createcustomclasslist.php:15
+msgid "Secondary Email"
+msgstr ""
+
+#: views/admin-createcustomclasslist.php:16
+msgid "Student Firstname"
+msgstr ""
+
+#: views/admin-createcustomclasslist.php:17
+msgid "Student Lastname"
+msgstr ""
+
+#: views/admin-createcustomclasslist.php:18
+msgid "Student Birthdate"
+msgstr ""
+
+#: views/admin-createcustomclasslist.php:19
+msgid "Student Gender"
+msgstr ""
+
+#: views/admin-createcustomclasslist.php:20
+msgid "Display student measurements form"
+msgstr ""
+
+#: views/admin-validation-done.php:1
+#: views/admin-editparent.php:1
+msgid "Back to Client Management page"
+msgstr ""
+
+#: views/admin-validation-done.php:3
+msgid "Action on selected clients completed"
+msgstr ""
+
+#: views/admin-validation-done.php:5
+msgid "Messages or confirmations sent to"
+msgstr ""
+
+#: views/admin-validation-done.php:5
+msgid "client(s)"
+msgstr ""
+
+#: views/registration__premium_only.php:4
+msgid "New to "
+msgstr ""
+
+#: views/registration__premium_only.php:5
+msgid "Register your student at "
+msgstr ""
+
+#: views/registration__premium_only.php:5
+#: views/registration__premium_only.php:25
+msgid "using our simple, online registration tool."
+msgstr ""
+
+#: views/registration__premium_only.php:11
+msgid "Existing Clients"
+msgstr ""
+
+#: views/registration__premium_only.php:12
+msgid "Please log in to register for the "
+msgstr ""
+
+#: views/registration__premium_only.php:12
+msgid "session."
+msgstr ""
+
+#: views/registration__premium_only.php:13
+msgid "Logging in enables us to provide you with personalized class recommendations for your students."
+msgstr ""
+
+#: views/registration__premium_only.php:16
+msgid "Username/Email"
+msgstr ""
+
+#: views/registration__premium_only.php:18
+msgid "Password:"
+msgstr ""
+
+#: views/registration__premium_only.php:21
+msgid "Lost your password"
+msgstr ""
+
+#: views/registration__premium_only.php:24
+msgid "Welcome Back Existing Clients"
+msgstr ""
+
+#: views/registration__premium_only.php:25
+msgid "Register your student(s) at "
+msgstr ""
+
+#: views/no-access__premium_only.php:6
+#: views/news.php:1
+msgid "DB Login"
+msgstr ""
+
+#: views/no-access__premium_only.php:8
+msgid "We are sorry, but your account appears to be deactivated. If you would like to re-activate your account, or you believe this notice is in error, please contact us at"
+msgstr ""
+
+#: views/no-access__premium_only.php:8
+msgid "or email"
+msgstr ""
+
+#: views/admin-billing-update__premium_only.php:1
+#: views/admin-billing-update-comp__premium_only.php:1
+msgid "Account Summary"
+msgstr ""
+
+#: views/admin-billing-update__premium_only.php:2
+#: views/admin-billing-update-comp__premium_only.php:2
+msgid "Statement of account generated"
+msgstr ""
+
+#: views/admin-billing-update__premium_only.php:4
+#: views/cheque__premium_only.php:7
+#: views/admin-billing-update-comp__premium_only.php:3
+#: views/advance__premium_only.php:6
+#: views/reg_stage5__premium_only.php:7
+#: views/reg_stage4__premium_only.php:14
+msgid "Account Holder"
+msgstr ""
+
+#: views/admin-billing-update__premium_only.php:7
+#: views/admin-billing-update-comp__premium_only.php:6
+#: views/admin-editparent.php:62
+#: views/admin-editstudent.php:61
+#: views/admin-studentdatasheet.php:21
+#: views/admin-addchild.php:15
+msgid "First name"
+msgstr ""
+
+#: views/admin-billing-update__premium_only.php:8
+#: views/admin-billing-update-comp__premium_only.php:7
+#: views/admin-editparent.php:66
+#: views/admin-editstudent.php:65
+#: views/admin-studentdatasheet.php:25
+#: views/admin-addchild.php:23
+msgid "Last name"
+msgstr ""
+
+#: views/admin-billing-update__premium_only.php:9
+#: views/admin-billing-update-comp__premium_only.php:8
+#: views/admin-listclass.php:39
+#: views/admin-options.php:200
+#: views/admin-venues.php:30
+#: views/admin-incompleteregistrations.php:14
+msgid "Email"
+msgstr ""
+
+#: views/admin-billing-update__premium_only.php:10
+#: views/admin-billing-update-comp__premium_only.php:9
+#: views/admin-options.php:168
+#: views/admin-venues.php:28
+msgid "Address"
+msgstr ""
+
+#: views/admin-billing-update__premium_only.php:21
+#: views/admin-billing-update-comp__premium_only.php:20
+msgid "Student(s)"
+msgstr ""
+
+#: views/admin-billing-update__premium_only.php:25
+#: views/admin-managestudents.php:55
+#: views/cheque__premium_only.php:22
+#: views/admin-billing-update-comp__premium_only.php:24
+#: views/admin-editstudent.php:73
+#: views/admin-studentdatasheet.php:33
+#: views/admin-addchild.php:39
+#: views/admin-classenrollment.php:51
+msgid "Gender"
+msgstr ""
+
+#: views/admin-billing-update__premium_only.php:27
+#: views/admin-billing-update-comp__premium_only.php:26
+msgid "Class selections"
+msgstr ""
+
+#: views/admin-billing-update__premium_only.php:35
+#: views/cheque__premium_only.php:30
+#: views/admin-billing-update-comp__premium_only.php:34
+msgid "Ages "
+msgstr ""
+
+#: views/admin-billing-update__premium_only.php:36
+#: views/cheque__premium_only.php:31
+#: views/admin-billing-update-comp__premium_only.php:35
+#: views/reg_stage5__premium_only.php:33
+#: views/reg_stage4__premium_only.php:33
+msgid "Class Day"
+msgstr ""
+
+#: views/admin-billing-update__premium_only.php:37
+#: views/cheque__premium_only.php:32
+#: views/admin-billing-update-comp__premium_only.php:36
+#: views/reg_stage5__premium_only.php:34
+#: views/reg_stage4__premium_only.php:34
+#: views/admin-classenrollment.php:21
+msgid "Time"
+msgstr ""
+
+#: views/admin-billing-update__premium_only.php:51
+#: views/admin-billing-update-comp__premium_only.php:50
+#: views/advance__premium_only.php:47
+#: views/advance__premium_only.php:49
+msgid "Your"
+msgstr ""
+
+#: views/admin-billing-update__premium_only.php:51
+#: views/admin-billing-update-comp__premium_only.php:50
+#: views/advance__premium_only.php:47
+msgid "Annual Fees and costume fees will be paid over"
+msgstr ""
+
+#: views/admin-billing-update__premium_only.php:51
+#: views/admin-billing-update-comp__premium_only.php:50
+msgid "instalments, plus a single registration fee payable at registration."
+msgstr ""
+
+#: views/admin-billing-update__premium_only.php:54
+#: views/admin-billing-update-comp__premium_only.php:54
+msgid "All amounts include Tax and any online transaction fees."
+msgstr ""
+
+#: views/admin-billing-update__premium_only.php:57
+#: views/admin-billing-update-comp__premium_only.php:60
+#: views/reg_stage5__premium_only.php:52
+msgid "Complete annual payment"
+msgstr ""
+
+#: views/admin-billing-update__premium_only.php:57
+#: views/admin-billing-update-comp__premium_only.php:60
+msgid "received with thanks."
+msgstr ""
+
+#: views/admin-billing-update__premium_only.php:63
+#: views/admin-billing-update-comp__premium_only.php:68
+#: views/parentbillinghistory__premium_only.php:18
+#: views/admin-editparent.php:166
+#: views/admin-pendingpayments__premium_only.php:16
+#: views/admin-options.php:216
+msgid "Registration Fee"
+msgstr ""
+
+#: views/admin-billing-update__premium_only.php:67
+#: views/admin-billing-update-comp__premium_only.php:72
+msgid "Non refundable Registration Fee"
+msgstr ""
+
+#: views/admin-billing-update__premium_only.php:71
+#: views/admin-billing-update__premium_only.php:96
+#: views/admin-billing-update-comp__premium_only.php:76
+#: views/admin-billing-update-comp__premium_only.php:101
+msgid "Date received"
+msgstr ""
+
+#: views/admin-billing-update__premium_only.php:81
+#: views/admin-billing-update-comp__premium_only.php:86
+msgid "Fee Schedule and Payment Dates"
+msgstr ""
+
+#: views/admin-billing-update__premium_only.php:91
+#: views/cheque__premium_only.php:67
+#: views/admin-billing-update-comp__premium_only.php:96
+#: views/advance__premium_only.php:83
+#: views/reg_stage5__premium_only.php:93
+#: views/reg_stage4__premium_only.php:81
+msgid "Payment"
+msgstr ""
+
+#: views/admin-billing-update__premium_only.php:97
+#: views/admin-billing-update-comp__premium_only.php:102
+msgid "scheduled"
+msgstr ""
+
+#: views/admin-reports.php:2
+#: dance-admin.php:28
+msgid "Reports"
+msgstr ""
+
+#: views/admin-reports.php:3
+#: views/admin-manageparents.php:6
+msgid "Registration Stats"
+msgstr ""
+
+#: views/admin-reports.php:9
+msgid "Columns"
+msgstr ""
+
+#: views/admin-reports.php:10
+msgid "Column must be selected in order to \"hide result if empty\"."
+msgstr ""
+
+#: views/admin-reports.php:12
+#: views/admin-manageparents.php:72
+#: views/admin-editparent.php:227
+msgid "Students"
+msgstr ""
+
+#: views/admin-reports.php:15
+#: views/admin-reports.php:34
+#: views/admin-reports.php:50
+msgid "Column"
+msgstr ""
+
+#: views/admin-reports.php:16
+#: views/admin-reports.php:35
+#: views/admin-reports.php:51
+msgid "Hide result if empty"
+msgstr ""
+
+#: views/admin-reports.php:31
+msgid "Parents"
+msgstr ""
+
+#: views/admin-reports.php:47
+msgid "Class Students"
+msgstr ""
+
+#: views/admin-reports.php:70
+msgid "No results found using specified filter."
+msgstr ""
+
+#: views/admin-reports.php:72
+msgid "Filter"
+msgstr ""
+
+#: views/admin-managestudents.php:1
+#: views/admin-editstudent.php:1
+msgid "Manage Students"
+msgstr ""
+
+#: views/admin-managestudents.php:2
+msgid "Active Students"
+msgstr ""
+
+#: views/admin-managestudents.php:3
+msgid "Deactivated Students"
+msgstr ""
+
+#: views/admin-managestudents.php:6
+msgid "Total Registered/Active Students: "
+msgstr ""
+
+#: views/admin-managestudents.php:14
+msgid "View and edit registered students."
+msgstr ""
+
+#: views/admin-managestudents.php:16
+msgid "Showing only inactive students"
+msgstr ""
+
+#: views/admin-managestudents.php:34
+#: views/admin-events.php:30
+#: views/admin-listclass.php:16
+#: views/admin-manageparents.php:34
+#: views/admin-editparent.php:23
+#: views/admin-venues.php:16
+#: views/admin-purchased-tickets.php:23
+msgid "Bulk Actions"
+msgstr ""
+
+#: views/admin-managestudents.php:35
+msgid "Add recommended course"
+msgstr ""
+
+#: views/admin-managestudents.php:36
+#: views/admin-manageparents.php:48
+msgid "Deactivate Account"
+msgstr ""
+
+#: views/admin-managestudents.php:37
+msgid "Enable online registration (use for rec students)"
+msgstr ""
+
+#: views/admin-managestudents.php:38
+msgid "Disable online registration (use for company students)"
+msgstr ""
+
+#: views/admin-managestudents.php:39
+msgid "Disable viewing schedule (company students only)"
+msgstr ""
+
+#: views/admin-managestudents.php:40
+msgid "Enable viewing schedule (company students only)"
+msgstr ""
+
+#: views/admin-managestudents.php:50
+#: views/admin-assignclass.php:16
+#: views/admin-manageparents.php:69
+#: views/admin-pendingpayments__premium_only.php:13
+#: views/admin-incompleteregistrations.php:11
+msgid "Firstname"
+msgstr ""
+
+#: views/admin-managestudents.php:51
+#: views/admin-assignclass.php:16
+#: views/admin-manageparents.php:70
+#: views/admin-pendingpayments__premium_only.php:14
+#: views/admin-incompleteregistrations.php:12
+msgid "Lastname"
+msgstr ""
+
+#: views/admin-managestudents.php:52
+#: views/admin-manageparents.php:71
+#: views/admin-pendingpayments__premium_only.php:15
+#: views/admin-incompleteregistrations.php:13
+msgid "Profile"
+msgstr ""
+
+#: views/admin-managestudents.php:53
+#: views/admin-pendingpayments__premium_only.php:18
+msgid "Date registered"
+msgstr ""
+
+#: views/admin-managestudents.php:54
+msgid "D.O.B."
+msgstr ""
+
+#: views/admin-managestudents.php:57
+msgid "Can register online?"
+msgstr ""
+
+#: views/admin-managestudents.php:58
+msgid "(Rec/Company)"
+msgstr ""
+
+#: views/admin-managestudents.php:61
+msgid "Can view schedule?"
+msgstr ""
+
+#: views/admin-managestudents.php:62
+msgid "(Company only)"
+msgstr ""
+
+#: views/admin-managestudents.php:64
+#: views/admin-managestudents.php:99
+msgid "Deactivate"
+msgstr ""
+
+#: views/admin-managestudents.php:82
+msgid "Edit Profile"
+msgstr ""
+
+#: views/admin-managestudents.php:100
+msgid "Activate"
+msgstr ""
+
+#: views/admin-managestudents.php:104
+msgid "Are you sure you want to delete this account holder? This will delete all details permanently. You may also need to delete the user from the Users panel if the account is validated."
+msgstr ""
+
+#: views/admin-addclients.php:1
+#: views/admin-manageparents.php:2
+#: dance-admin.php:32
+msgid "Add Clients"
+msgstr ""
+
+#: views/admin-addclients.php:3
+msgid "Use this area to add Clients (ie parents/guardians) and create billing agreements through the DancePress."
+msgstr ""
+
+#: views/admin-addclients.php:4
+msgid "Notes"
+msgstr ""
+
+#: views/admin-addclients.php:6
+msgid "Clients' user accounts will be created, and they will be notified of login details <b>if requested in the form below</b>"
+msgstr ""
+
+#: views/admin-addclients.php:7
+msgid "After creating a client, edit the new client and create students and assign classes through the \"Client Management\" page."
+msgstr ""
+
+#: views/admin-addclients.php:8
+msgid "You can create billing agreements through DancePress, but charges will not be automatically made until a Stripe customer is created."
+msgstr ""
+
+#: views/admin-addclients.php:17
+msgid "Account Holder Details"
+msgstr ""
+
+#: views/admin-addclients.php:22
+msgid "First name*"
+msgstr ""
+
+#: views/admin-addclients.php:30
+msgid "Last name*"
+msgstr ""
+
+#: views/admin-addclients.php:39
+msgid "Email address*"
+msgstr ""
+
+#: views/admin-addclients.php:48
+#: views/reg_stage1__premium_only.php:64
+msgid "Optional additional email"
+msgstr ""
+
+#: views/admin-addclients.php:57
+msgid "Street Address"
+msgstr ""
+
+#: views/admin-addclients.php:74
+#: views/admin-addvenue.php:27
+#: views/admin-editvenue.php:30
+#: views/admin-editparent.php:88
+msgid "City"
+msgstr ""
+
+#: views/admin-addclients.php:83
+msgid "Postal code"
+msgstr ""
+
+#: views/admin-addclients.php:91
+msgid "State/Province/County"
+msgstr ""
+
+#: views/admin-addclients.php:99
+#: views/reg_stage1__premium_only.php:99
+#: views/admin-options.php:178
+msgid "Country"
+msgstr ""
+
+#: views/admin-addclients.php:372
+msgid "Warning: Duplicate"
+msgstr ""
+
+#: views/admin-addclients.php:377
+#: views/reg_stage1__premium_only.php:139
+#: views/reg_stage22__premium_only.php:36
+msgid "Where did you hear about "
+msgstr ""
+
+#: views/admin-addclients.php:382
+#: views/reg_stage1__premium_only.php:143
+#: views/reg_stage22__premium_only.php:41
+msgid "Recommended by a friend"
+msgstr ""
+
+#: views/admin-addclients.php:383
+#: views/reg_stage1__premium_only.php:144
+#: views/reg_stage22__premium_only.php:42
+msgid "Advertisement (print)"
+msgstr ""
+
+#: views/admin-addclients.php:384
+#: views/reg_stage1__premium_only.php:145
+#: views/reg_stage22__premium_only.php:43
+msgid "Search Engine (eg Google)"
+msgstr ""
+
+#: views/admin-addclients.php:385
+#: views/reg_stage1__premium_only.php:146
+#: views/admin-viewcustomclasslist.php:53
+#: views/reg_stage22__premium_only.php:44
+msgid "Other"
+msgstr ""
+
+#: views/admin-addclients.php:391
+#: views/reg_stage1__premium_only.php:115
+msgid "Emergency Contact"
+msgstr ""
+
+#: views/admin-addclients.php:392
+msgid "Someone who can be contacted in an emergency if you are not available)"
+msgstr ""
+
+#: views/admin-addclients.php:400
+msgid "Emergency Contact Phone"
+msgstr ""
+
+#: views/admin-addclients.php:408
+msgid "Emergency Contact's relationship to dancer(s)"
+msgstr ""
+
+#: views/admin-addclients.php:416
+msgid "Notify User of new account and send registration information:"
+msgstr ""
+
+#: views/admin-addclients.php:424
+msgid "Create client"
+msgstr ""
+
+#: views/admin-addclass.php:1
+msgid "Add a Course"
+msgstr ""
+
+#: views/admin-addclass.php:2
+msgid "A course is made up of weekly classes held over a period of weeks or months. Create new courses here, and then edit them via the Course List menu."
+msgstr ""
+
+#: views/admin-addclass.php:10
+#: views/admin-addclass.php:161
+msgid "min"
+msgstr ""
+
+#: views/admin-addclass.php:31
+#: views/admin-editclass.php:41
+msgid "Select Category"
+msgstr ""
+
+#: views/admin-addclass.php:44
+msgid "Age "
+msgstr ""
+
+#: views/admin-addclass.php:48
+msgid "Experience Required"
+msgstr ""
+
+#: views/admin-addclass.php:52
+#: views/admin-editclass.php:68
+msgid "Is Competitive?"
+msgstr ""
+
+#: views/admin-addclass.php:60
+msgid "Available to public online registrations?"
+msgstr ""
+
+#: views/admin-addclass.php:76
+#: views/admin-editclass.php:106
+msgid "Day of week held"
+msgstr ""
+
+#: views/admin-addclass.php:92
+msgid "Class Duration "
+msgstr ""
+
+#: views/admin-addclass.php:95
+#: views/admin-addclass.php:96
+#: views/admin-addclass.php:97
+#: views/admin-addclass.php:98
+#: views/admin-addclass.php:99
+#: views/admin-addclass.php:100
+#: views/admin-addclass.php:101
+#: views/admin-addclass.php:102
+#: views/admin-addclass.php:103
+#: views/admin-addclass.php:104
+#: views/admin-addclass.php:105
+#: views/admin-addclass.php:107
+#: views/admin-addclass.php:108
+#: views/admin-addclass.php:109
+#: views/admin-addclass.php:110
+#: views/admin-addclass.php:111
+#: views/admin-addclass.php:112
+#: views/admin-addclass.php:113
+#: views/admin-addclass.php:114
+#: views/admin-addclass.php:115
+#: views/admin-addclass.php:116
+#: views/admin-addclass.php:117
+#: views/admin-addclass.php:119
+#: views/admin-addclass.php:120
+#: views/admin-addclass.php:121
+#: views/admin-addclass.php:122
+#: views/admin-addclass.php:123
+#: views/admin-addclass.php:124
+#: views/admin-addclass.php:125
+#: views/admin-addclass.php:126
+#: views/admin-addclass.php:127
+#: views/admin-addclass.php:128
+#: views/admin-addclass.php:129
+#: views/admin-addclass.php:131
+#: views/admin-addclass.php:132
+#: views/admin-addclass.php:133
+#: views/admin-addclass.php:134
+#: views/admin-addclass.php:135
+#: views/admin-addclass.php:136
+#: views/admin-addclass.php:137
+#: views/admin-addclass.php:138
+#: views/admin-addclass.php:139
+#: views/admin-addclass.php:140
+#: views/admin-addclass.php:141
+msgid "mins"
+msgstr ""
+
+#: views/admin-addclass.php:106
+#: views/admin-addclass.php:107
+#: views/admin-addclass.php:108
+#: views/admin-addclass.php:109
+#: views/admin-addclass.php:110
+#: views/admin-addclass.php:111
+#: views/admin-addclass.php:112
+#: views/admin-addclass.php:113
+#: views/admin-addclass.php:114
+#: views/admin-addclass.php:115
+#: views/admin-addclass.php:116
+#: views/admin-addclass.php:117
+msgid "Hour"
+msgstr ""
+
+#: views/admin-addclass.php:118
+#: views/admin-addclass.php:119
+#: views/admin-addclass.php:120
+#: views/admin-addclass.php:121
+#: views/admin-addclass.php:122
+#: views/admin-addclass.php:123
+#: views/admin-addclass.php:124
+#: views/admin-addclass.php:125
+#: views/admin-addclass.php:126
+#: views/admin-addclass.php:127
+#: views/admin-addclass.php:128
+#: views/admin-addclass.php:129
+#: views/admin-addclass.php:130
+#: views/admin-addclass.php:131
+#: views/admin-addclass.php:132
+#: views/admin-addclass.php:133
+#: views/admin-addclass.php:134
+#: views/admin-addclass.php:135
+#: views/admin-addclass.php:136
+#: views/admin-addclass.php:137
+#: views/admin-addclass.php:138
+#: views/admin-addclass.php:139
+#: views/admin-addclass.php:140
+#: views/admin-addclass.php:141
+msgid "Hours"
+msgstr ""
+
+#: views/admin-addclass.php:142
+msgid "hours"
+msgstr ""
+
+#: views/admin-addclass.php:154
+msgid "Installment Fees"
+msgstr ""
+
+#: views/admin-addclass.php:156
+#: views/admin-editparent.php:13
+#: views/admin-options.php:240
+#: views/admin-editclass.php:162
+msgid "Actions"
+msgstr ""
+
+#: views/admin-addclass.php:162
+#: views/admin-listclasscategories.php:14
+#: views/admin-listchildclass.php:19
+#: views/admin-manageparents.php:87
+#: views/admin-incompleteregistrations.php:16
+msgid "Delete"
+msgstr ""
+
+#: views/admin-addclass.php:166
+msgid "Add Installment"
+msgstr ""
+
+#: views/admin-addvenue.php:1
+#: views/admin-editvenue.php:1
+#: views/admin-venues.php:2
+msgid "Manage Venues"
+msgstr ""
+
+#: views/admin-addvenue.php:8
+#: views/admin-editvenue.php:8
+msgid "Venue Manager"
+msgstr ""
+
+#: views/admin-addvenue.php:15
+#: views/admin-events.php:40
+#: views/admin-editvenue.php:18
+#: views/admin-editevent.php:18
+#: views/admin-options.php:237
+#: views/admin-venues.php:27
+#: views/admin-editclass.php:159
+#: views/admin-billingreceipt__premium_only.php:26
+msgid "Name"
+msgstr ""
+
+#: views/admin-addvenue.php:19
+#: views/admin-editvenue.php:22
+msgid "Address 1"
+msgstr ""
+
+#: views/admin-addvenue.php:23
+#: views/admin-editvenue.php:26
+msgid "Address 2"
+msgstr ""
+
+#: views/admin-addvenue.php:31
+#: views/admin-editvenue.php:34
+#: views/admin-editparent.php:92
+msgid "Postal Code"
+msgstr ""
+
+#: views/admin-addvenue.php:35
+#: views/admin-editvenue.php:38
+#: views/admin-venues.php:29
+msgid "Phone"
+msgstr ""
+
+#: views/admin-addvenue.php:40
+#: views/admin-addevent.php:56
+#: views/admin-editstudent.php:127
+msgid "Custom Field name:"
+msgstr ""
+
+#: views/admin-addvenue.php:43
+#: views/admin-addevent.php:59
+msgid "Custom Field value:"
+msgstr ""
+
+#: views/admin-addvenue.php:49
+msgid "submit"
+msgstr ""
+
+#: views/admin-scheduled-getconfirm__premium_only.php:1
+msgid "Are you sure you want to process these payments"
+msgstr ""
+
+#: views/admin-scheduled-getconfirm__premium_only.php:12
+msgid "About to process payments for"
+msgstr ""
+
+#: views/admin-scheduled-getconfirm__premium_only.php:12
+msgid "people"
+msgstr ""
+
+#: views/admin-scheduled-getconfirm__premium_only.php:12
+msgid "person"
+msgstr ""
+
+#: views/admin-scheduled-getconfirm__premium_only.php:12
+msgid "Are you sure you want to do this?"
+msgstr ""
+
+#: views/admin-scheduled-getconfirm__premium_only.php:13
+msgid "The next currently unpaid scheduled payment for each client's account will be charged."
+msgstr ""
+
+#: views/admin-scheduled-getconfirm__premium_only.php:16
+msgid "Payments to process"
+msgstr ""
+
+#: views/admin-scheduled-getconfirm__premium_only.php:25
+msgid "Payment Due:"
+msgstr ""
+
+#: views/admin-scheduled-getconfirm__premium_only.php:26
+msgid "Payment Amount:"
+msgstr ""
+
+#: views/admin-scheduled-getconfirm__premium_only.php:31
+msgid "Please note: $0.00 payments still need to be processed and marked as 'paid' in order that future payments are processed automatically next time."
+msgstr ""
+
+#: views/admin-scheduled-getconfirm__premium_only.php:39
+msgid "Process Payments Now!"
+msgstr ""
+
+#: views/admin-scheduled-getconfirm__premium_only.php:40
+#: views/admin-scheduled-getconfirm__premium_only.php:48
+msgid "Cancel and return to previous page"
+msgstr ""
+
+#: views/admin-scheduled-getconfirm__premium_only.php:47
+msgid "No payments are pending in the submitted client accounts."
+msgstr ""
+
+#: views/admin-events.php:2
+#: views/admin-addevent.php:1
+#: views/admin-editevent.php:1
+msgid "Manage Events"
+msgstr ""
+
+#: views/admin-events.php:3
+#: views/admin-purchased-tickets.php:3
+msgid "All Events"
+msgstr ""
+
+#: views/admin-events.php:4
+#: views/admin-purchased-tickets.php:4
+msgid "Past Events"
+msgstr ""
+
+#: views/admin-events.php:5
+#: views/admin-purchased-tickets.php:5
+msgid "Current Events"
+msgstr ""
+
+#: views/admin-events.php:6
+#: views/admin-venues.php:31
+#: views/admin-purchased-tickets.php:6
+msgid "Upcoming Events"
+msgstr ""
+
+#: views/admin-events.php:7
+#: views/admin-purchased-tickets.php:7
+msgid "Add Event"
+msgstr ""
+
+#: views/admin-events.php:9
+msgid "View and edit events."
+msgstr ""
+
+#: views/admin-events.php:12
+msgid "Showing only past events"
+msgstr ""
+
+#: views/admin-events.php:14
+msgid "Showing only current events"
+msgstr ""
+
+#: views/admin-events.php:16
+msgid "Showing only upcoming events"
+msgstr ""
+
+#: views/admin-events.php:31
+msgid "Delete events"
+msgstr ""
+
+#: views/admin-events.php:41
+#: views/admin-editevent.php:22
+#: views/admin-purchased-tickets.php:33
+msgid "Venue"
+msgstr ""
+
+#: views/admin-events.php:42
+#: views/admin-addevent.php:31
+#: views/admin-editevent.php:33
+msgid "Starts"
+msgstr ""
+
+#: views/admin-events.php:43
+#: views/admin-addevent.php:35
+#: views/admin-editevent.php:37
+msgid "Ends"
+msgstr ""
+
+#: views/admin-events.php:44
+msgid "Tickets Sold"
+msgstr ""
+
+#: views/admin-events.php:45
+msgid "Tickets Available"
+msgstr ""
+
+#: views/admin-events.php:46
+#: views/admin-listclass.php:58
+#: views/admin-listchildclass.php:18
+#: views/admin-venues.php:32
+msgid "Edit Selected"
+msgstr ""
+
+#: views/admin-events.php:71
+msgid "View Tickets"
+msgstr ""
+
+#: views/admin-events.php:78
+#: views/admin-listclasscategories.php:13
+#: views/admin-listclasscategories.php:23
+#: views/admin-listclass.php:90
+#: views/admin-listchildclass.php:32
+msgid "Edit"
+msgstr ""
+
+#: views/admin-events.php:81
+msgid "Are you sure you want to delete this event? This will delete all details permanently."
+msgstr ""
+
+#: views/cheque__premium_only.php:1
+#: views/reg_stage5__premium_only.php:1
+msgid "Confirmation of Registration"
+msgstr ""
+
+#: views/cheque__premium_only.php:2
+#: views/reg_stage5__premium_only.php:2
+msgid "Thank you for choosing "
+msgstr ""
+
+#: views/cheque__premium_only.php:3
+#: views/reg_stage5__premium_only.php:3
+msgid "Please print out for your records"
+msgstr ""
+
+#: views/cheque__premium_only.php:4
+msgid "Statement of account generated "
+msgstr ""
+
+#: views/cheque__premium_only.php:18
+#: views/advance__premium_only.php:19
+#: views/reg_stage5__premium_only.php:18
+#: views/reg_stage4__premium_only.php:20
+msgid "Student(s):"
+msgstr ""
+
+#: views/cheque__premium_only.php:24
+#: views/advance__premium_only.php:25
+#: views/reg_stage5__premium_only.php:24
+#: views/reg_stage4__premium_only.php:26
+msgid "Class selections:"
+msgstr ""
+
+#: views/cheque__premium_only.php:48
+#: views/reg_stage4__premium_only.php:51
+msgid "Payable Now:"
+msgstr ""
+
+#: views/cheque__premium_only.php:52
+#: views/advance__premium_only.php:61
+#: views/reg_stage5__premium_only.php:67
+msgid "Non refundable Registration Fee:"
+msgstr ""
+
+#: views/cheque__premium_only.php:56
+msgid "Tuition Installment Dates:"
+msgstr ""
+
+#: views/cheque__premium_only.php:63
+msgid "Installment "
+msgstr ""
+
+#: views/cheque__premium_only.php:72
+msgid "All returned or NSF cheques will be subject to a $30 service charge and must be replaced with cash"
+msgstr ""
+
+#: views/admin-modify-group__premium_only.php:1
+msgid "Modify Mailing List Group"
+msgstr ""
+
+#: views/admin-modify-group__premium_only.php:2
+msgid "A mailing list group contains a collection of emails that can be messaged together."
+msgstr ""
+
+#: views/admin-modify-group__premium_only.php:8
+msgid "Select group to update"
+msgstr ""
+
+#: views/admin-modify-group__premium_only.php:17
+msgid "Clients to add to list:"
+msgstr ""
+
+#: views/news.php:2
+msgid "Through the DB Login area you can keep up to date with the latest news and announcements from"
+msgstr ""
+
+#: views/news.php:2
+msgid "view and edit your profile, view your student's classes, and view and print out your scheduled payment records."
+msgstr ""
+
+#: views/news.php:7
+msgid "News"
+msgstr ""
+
+#: views/admin-listclasscategories.php:1
+msgid "List of Course Categories"
+msgstr ""
+
+#: views/admin-listclasscategories.php:11
+#: views/admin-addclasscategory.php:18
+msgid "Category Name"
+msgstr ""
+
+#: views/admin-listclasscategories.php:38
+msgid "Are you sure you want to delete the class categories?"
+msgstr ""
+
+#: views/parentchilds__premium_only.php:1
+msgid "Your students"
+msgstr ""
+
+#: views/parentchilds__premium_only.php:20
+msgid "First Name"
+msgstr ""
+
+#: views/parentchilds__premium_only.php:21
+msgid "Last Name"
+msgstr ""
+
+#: views/parentchilds__premium_only.php:22
+msgid "Birth Date"
+msgstr ""
+
+#: views/parentchilds__premium_only.php:23
+msgid "View Classes"
+msgstr ""
+
+#: views/parentchilds__premium_only.php:36
+msgid "View"
+msgstr ""
+
+#: views/parentchilds__premium_only.php:45
+msgid "No records found."
+msgstr ""
+
+#: views/admin-view-group__premium_only.php:1
+msgid "Group Membership"
+msgstr ""
+
+#: views/admin-view-group__premium_only.php:2
+msgid "Note: to modify an existing group go to "
+msgstr ""
+
+#: views/admin-view-group__premium_only.php:2
+msgid "client manager"
+msgstr ""
+
+#: views/admin-view-group__premium_only.php:2
+msgid "and select \"Modify mailing list\" under Bulk Actions."
+msgstr ""
+
+#: views/admin-view-group__premium_only.php:3
+msgid "Editing: "
+msgstr ""
+
+#: views/admin-view-group__premium_only.php:17
+msgid "Are you sure you want to delete this client from the group."
+msgstr ""
+
+#: views/admin-registrationsbydate.php:1
+msgid "Student Registrations By Date"
+msgstr ""
+
+#: views/admin-registrationsbydate.php:37
+msgid "Clear"
+msgstr ""
+
+#: views/admin-registrationsbydate.php:40
+msgid "Registrations between "
+msgstr ""
+
+#: views/admin-registrationsbydate.php:53
+msgid "Dropped classes between "
+msgstr ""
+
+#: views/admin-registrationsbydate.php:56
+#: views/reg_stage3__premium_only.php:36
+#: views/reg_stage3__premium_only.php:103
+msgid "Class"
+msgstr ""
+
+#: views/admin-registrationsbydate.php:56
+msgid "Student"
+msgstr ""
+
+#: views/admin-registrationsbydate.php:56
+#: views/admin-options.php:238
+#: views/admin-editclass.php:160
+#: views/admin-billingreceipt__premium_only.php:19
+msgid "Date"
+msgstr ""
+
+#: views/admin-registrationsbydate.php:56
+msgid "Total drops in this class"
+msgstr ""
+
+#: views/admin-registrationsbydate.php:58
+msgid "No classes dropped during this time"
+msgstr ""
+
+#: views/admin-changedpaidstatus-selectbulkstatus__premium_only.php:1
+msgid "Do you want to"
+msgstr ""
+
+#: views/admin-changedpaidstatus-selectbulkstatus__premium_only.php:7
+msgid "Mark these clients as unpaid"
+msgstr ""
+
+#: views/admin-changedpaidstatus-selectbulkstatus__premium_only.php:10
+msgid "Mark these clients as paid"
+msgstr ""
+
+#: views/admin-changedpaidstatus-selectbulkstatus__premium_only.php:20
+msgid "Apply status"
+msgstr ""
+
+#: views/empty.php:1
+msgid "Return to previous page"
+msgstr ""
+
+#: views/admin-addevent.php:8
+msgid "Event Manager"
+msgstr ""
+
+#: views/admin-addevent.php:39
+msgid "Ticket Price ($)"
+msgstr ""
+
+#: views/admin-addevent.php:43
+#: views/admin-editevent.php:45
+msgid "Max Tickets"
+msgstr ""
+
+#: views/admin-addevent.php:51
+#: views/admin-editevent.php:53
+msgid "Image "
+msgstr ""
+
+#: views/admin-addevent.php:65
+#: views/admin-editevent.php:78
+msgid "Save Event"
+msgstr ""
+
+#: views/ticketpurchases.php:5
+msgid "Ticket Purchases"
+msgstr ""
+
+#: views/ticketpurchases.php:26
+#: views/admin-purchased-tickets.php:32
+msgid "Event"
+msgstr ""
+
+#: views/ticketpurchases.php:27
+msgid "Ticket Price"
+msgstr ""
+
+#: views/ticketpurchases.php:28
+msgid "Quantity"
+msgstr ""
+
+#: views/ticketpurchases.php:29
+#: views/admin-purchased-tickets.php:36
+msgid "Sub-Total"
+msgstr ""
+
+#: views/ticketpurchases.php:30
+msgid "Tax ("
+msgstr ""
+
+#: views/ticketpurchases.php:31
+#: views/admin-manageparents.php:79
+#: views/admin-editparent.php:186
+#: views/admin-purchased-tickets.php:38
+#: views/admin-billingreceipt__premium_only.php:72
+#: views/admin-billingreceipt__premium_only.php:85
+#: views/admin-billingreceipt__premium_only.php:101
+msgid "Total"
+msgstr ""
+
+#: views/ticketpurchases.php:32
+#: views/admin-purchased-tickets.php:39
+msgid "Date Purchased"
+msgstr ""
+
+#: views/admin-listclass.php:1
+msgid "List of Courses"
+msgstr ""
+
+#: views/admin-listclass.php:17
+msgid "Print selected class attendance lists"
+msgstr ""
+
+#: views/admin-listclass.php:18
+msgid "Print advanced class data lists & measurements"
+msgstr ""
+
+#: views/admin-listclass.php:22
+msgid "Enable online registration for selected courses"
+msgstr ""
+
+#: views/admin-listclass.php:23
+msgid "Disable online registration for selected courses"
+msgstr ""
+
+#: views/admin-listclass.php:24
+msgid "Email selected courses"
+msgstr ""
+
+#: views/admin-listclass.php:40
+#: views/admin-listchildclass.php:13
+#: views/admin-addrecommendedcourse-selectcourse.php:11
+msgid "Category"
+msgstr ""
+
+#: views/admin-listclass.php:42
+#: views/admin-addrecommendedcourse-selectcourse.php:13
+#: views/admin-classenrollment.php:24
+msgid "Enrollment"
+msgstr ""
+
+#: views/admin-listclass.php:43
+#: views/admin-addrecommendedcourse-selectcourse.php:14
+msgid "Weekday"
+msgstr ""
+
+#: views/admin-listclass.php:44
+#: views/admin-listchildclass.php:14
+#: views/admin-addrecommendedcourse-selectcourse.php:15
+msgid "Start Date"
+msgstr ""
+
+#: views/admin-listclass.php:45
+#: views/admin-listchildclass.php:15
+#: views/admin-addrecommendedcourse-selectcourse.php:16
+msgid "End Date"
+msgstr ""
+
+#: views/admin-listclass.php:46
+#: views/admin-listchildclass.php:16
+#: views/admin-addrecommendedcourse-selectcourse.php:17
+msgid "Start Time"
+msgstr ""
+
+#: views/admin-listclass.php:47
+#: views/admin-listchildclass.php:17
+#: views/admin-addrecommendedcourse-selectcourse.php:18
+msgid "End Time"
+msgstr ""
+
+#: views/admin-listclass.php:51
+msgid "Online"
+msgstr ""
+
+#: views/admin-listclass.php:52
+msgid "Total Installment Fees"
+msgstr ""
+
+#: views/admin-listclass.php:57
+#: views/admin-listclass.php:89
+msgid "Edit All"
+msgstr ""
+
+#: views/admin-listclass.php:91
+msgid "Are you sure you want to delete this course? This will delete all details permanently."
+msgstr ""
+
+#: views/admin-listchildclass.php:1
+msgid "Edit Single Classes in this Course"
+msgstr ""
+
+#: views/admin-assignclass.php:16
+msgid "Classes"
+msgstr ""
+
+#: views/admin-assignclass.php:53
+msgid "Previous"
+msgstr ""
+
+#: views/admin-assignclass.php:55
+msgid "Next"
+msgstr ""
+
+#: views/admin-editvenue.php:9
+#: views/admin-venues.php:3
+msgid "Add Venue"
+msgstr ""
+
+#: views/admin-editvenue.php:53
+#: views/admin-editevent.php:69
+msgid "Custom Field name"
+msgstr ""
+
+#: views/admin-editvenue.php:56
+#: views/admin-editevent.php:72
+#: views/admin-editstudent.php:130
+msgid "Custom Field value"
+msgstr ""
+
+#: views/admin-editvenue.php:62
+msgid "Save Venue"
+msgstr ""
+
+#: views/admin-editevent.php:41
+msgid "Ticket Price "
+msgstr ""
+
+#: views/advance__premium_only.php:1
+msgid "Thank You"
+msgstr ""
+
+#: views/advance__premium_only.php:2
+msgid "Confirmation of account creation and payment scheduling"
+msgstr ""
+
+#: views/advance__premium_only.php:4
+msgid "Your student is now registered at "
+msgstr ""
+
+#: views/advance__premium_only.php:47
+msgid "installments, plus a single registration fee payable today. Scheduled payments will be automatically deducted from your credit card on the dates stated below."
+msgstr ""
+
+#: views/advance__premium_only.php:49
+msgid "Annual Fees and costume fees will be paid along with your registration fee payable today."
+msgstr ""
+
+#: views/advance__premium_only.php:58
+#: views/reg_stage5__premium_only.php:63
+msgid "Received Now:"
+msgstr ""
+
+#: views/advance__premium_only.php:64
+#: views/advance__premium_only.php:87
+#: views/reg_stage5__premium_only.php:70
+#: views/reg_stage4__premium_only.php:58
+#: views/reg_stage4__premium_only.php:85
+msgid "Online transaction fee"
+msgstr ""
+
+#: views/advance__premium_only.php:67
+#: views/reg_stage5__premium_only.php:73
+#: views/reg_stage4__premium_only.php:61
+msgid "Total Tax Payable Now"
+msgstr ""
+
+#: views/advance__premium_only.php:70
+#: views/reg_stage5__premium_only.php:76
+msgid "Total Payable Now"
+msgstr ""
+
+#: views/advance__premium_only.php:73
+#: views/reg_stage4__premium_only.php:70
+msgid "Fee Schedule and Payment Dates:"
+msgstr ""
+
+#: views/advance__premium_only.php:80
+msgid "Period "
+msgstr ""
+
+#: views/advance__premium_only.php:91
+msgid "Total Period 1 Tax"
+msgstr ""
+
+#: views/advance__premium_only.php:95
+msgid "Total Period 1 Payment"
+msgstr ""
+
+#: views/reg_stage1__premium_only.php:6
+msgid "1. Parent/Guardian Details"
+msgstr ""
+
+#: views/reg_stage1__premium_only.php:60
+msgid "here."
+msgstr ""
+
+#: views/reg_stage1__premium_only.php:94
+#: views/admin-options.php:173
+msgid "Province/State"
+msgstr ""
+
+#: views/reg_stage1__premium_only.php:130
+msgid "Relationship to dancer(s)"
+msgstr ""
+
+#: views/reg_stage1__premium_only.php:136
+msgid "Where did you hear about us"
+msgstr ""
+
+#: views/reg_stage1__premium_only.php:152
+msgid "Continue to Step 2"
+msgstr ""
+
+#: views/reg_stage1__premium_only.php:153
+msgid "Required"
+msgstr ""
+
+#: views/reg_stage1__premium_only.php:166
+msgid "If you have any questions throughout the registration process, please "
+msgstr ""
+
+#: views/reg_stage1__premium_only.php:166
+#: views/reg_stage3__premium_only.php:65
+#: views/reg_stage3__premium_only.php:165
+msgid "contact us"
+msgstr ""
+
+#: views/viewclass.php:2
+msgid "Return to Previous Page"
+msgstr ""
+
+#: views/parentbillinghistory__premium_only.php:1
+msgid "Your Payments"
+msgstr ""
+
+#: views/parentbillinghistory__premium_only.php:10
+msgid "Parent Billing History"
+msgstr ""
+
+#: views/parentbillinghistory__premium_only.php:17
+msgid "Payment Type"
+msgstr ""
+
+#: views/parentbillinghistory__premium_only.php:31
+#: views/parentbillinghistory__premium_only.php:38
+msgid "Paid"
+msgstr ""
+
+#: views/parentbillinghistory__premium_only.php:31
+msgid "Due now"
+msgstr ""
+
+#: views/parentbillinghistory__premium_only.php:38
+msgid "Scheduled"
+msgstr ""
+
+#: views/admin-newactivation.php:2
+msgid "Welcome to DancePress"
+msgstr ""
+
+#: views/admin-newactivation.php:5
+msgid "Thank you for installing DancePress. Before you get stated, complete some required fields below:"
+msgstr ""
+
+#: views/admin-newactivation.php:7
+msgid "Add a default session, and then set a default and working session below."
+msgstr ""
+
+#: views/admin-newactivation.php:8
+msgid "Add the contact details your clients will use."
+msgstr ""
+
+#: views/admin-newactivation.php:9
+msgid "Add some "
+msgstr ""
+
+#: views/admin-newactivation.php:10
+msgid "Visit "
+msgstr ""
+
+#: views/admin-newactivation.php:10
+msgid "DancePress Documentation</a> or email <a href=\"mailto:info@dancepress.ca\">info@dancepress.ca</a> if you need help."
+msgstr ""
+
+#: views/admin-addrecommendedcourse-selectcourse.php:1
+msgid "Add Recommended Course to students: Select Course to recommend"
+msgstr ""
+
+#: views/admin-addrecommendedcourse-selectcourse.php:4
+#: views/admin-addrecommendedcourse-selectcourse.php:43
+msgid "Recommend"
+msgstr ""
+
+#: views/admin-addrecommendedcourse-selectcourse.php:19
+msgid "Online<br/>registration?"
+msgstr ""
+
+#: views/admin-addrecommendedcourse-selectcourse.php:38
+msgid "no"
+msgstr ""
+
+#: views/admin-addrecommendedcourse-selectcourse.php:38
+msgid "yes"
+msgstr ""
+
+#: views/reg_stage5__premium_only.php:4
+msgid " Statement of account generated"
+msgstr ""
+
+#: views/reg_stage5__premium_only.php:22
+msgid "Gender:"
+msgstr ""
+
+#: views/reg_stage5__premium_only.php:32
+#: views/reg_stage4__premium_only.php:32
+msgid "(Ages"
+msgstr ""
+
+#: views/reg_stage5__premium_only.php:45
+msgid " Tuition Schedule"
+msgstr ""
+
+#: views/reg_stage5__premium_only.php:52
+msgid "received with thanks"
+msgstr ""
+
+#: views/reg_stage5__premium_only.php:56
+msgid "Scheduled payments will be automatically charged to your credit card on the dates stated below:"
+msgstr ""
+
+#: views/reg_stage5__premium_only.php:80
+msgid "Tuition Schedule and Installment Dates:"
+msgstr ""
+
+#: views/reg_stage5__premium_only.php:101
+msgid "Payment date"
+msgstr ""
+
+#: views/admin-manageparents.php:1
+msgid "Client/Parent/Guardian Management"
+msgstr ""
+
+#: views/admin-manageparents.php:3
+msgid "Pending/Overdue Payments"
+msgstr ""
+
+#: views/admin-manageparents.php:4
+msgid "Incomplete Registrations"
+msgstr ""
+
+#: views/admin-manageparents.php:5
+msgid "Deactivated"
+msgstr ""
+
+#: views/admin-manageparents.php:13
+msgid "View and edit registered clients."
+msgstr ""
+
+#: views/admin-manageparents.php:35
+#: views/admin-editparent.php:24
+msgid "Validate and send login details"
+msgstr ""
+
+#: views/admin-manageparents.php:36
+msgid "Validate, send login details, billing and class lists"
+msgstr ""
+
+#: views/admin-manageparents.php:37
+#: views/admin-editparent.php:26
+msgid "Send billing and class lists"
+msgstr ""
+
+#: views/admin-manageparents.php:38
+#: views/admin-editparent.php:27
+msgid "Send class lists/enrollments only (non-competitive)"
+msgstr ""
+
+#: views/admin-manageparents.php:39
+#: views/admin-editparent.php:28
+msgid "Send class lists/enrollments only (competitive)"
+msgstr ""
+
+#: views/admin-manageparents.php:42
+#: views/admin-editparent.php:29
+msgid "Send custom email"
+msgstr ""
+
+#: views/admin-manageparents.php:43
+#: views/admin-editparent.php:30
+msgid "Create mailing group"
+msgstr ""
+
+#: views/admin-manageparents.php:44
+#: views/admin-editparent.php:31
+msgid "Modify mailing group"
+msgstr ""
+
+#: views/admin-manageparents.php:45
+#: views/admin-editparent.php:32
+msgid "Process Payments Due"
+msgstr ""
+
+#: views/admin-manageparents.php:46
+#: views/admin-editparent.php:33
+msgid "Receipts"
+msgstr ""
+
+#: views/admin-manageparents.php:50
+msgid "Change paid Status: Registration Fee"
+msgstr ""
+
+#: views/admin-manageparents.php:52
+msgid "Change paid status"
+msgstr ""
+
+#: views/admin-manageparents.php:54
+msgid "Sync clients to Wordpress users"
+msgstr ""
+
+#: views/admin-manageparents.php:59
+msgid "Change Students' Schedule Availability"
+msgstr ""
+
+#: views/admin-manageparents.php:80
+#: views/admin-editparent.php:194
+#: views/admin-pendingpayments__premium_only.php:17
+msgid "Payment Method"
+msgstr ""
+
+#: views/admin-manageparents.php:85
+#: views/admin-editparent.php:158
+#: views/admin-incompleteregistrations.php:15
+msgid "Date Added"
+msgstr ""
+
+#: views/admin-manageparents.php:86
+msgid "Status"
+msgstr ""
+
+#: views/admin-editparent.php:5
+msgid "You are viewing an incomplete/unconfirmed registration. Values cannot be changed."
+msgstr ""
+
+#: views/admin-editparent.php:25
+msgid "Validate"
+msgstr ""
+
+#: views/admin-editparent.php:43
+msgid "Manage Client Account Holders"
+msgstr ""
+
+#: views/admin-editparent.php:70
+msgid "Email/Wordpress Username"
+msgstr ""
+
+#: views/admin-editparent.php:80
+#: views/admin-editparent.php:84
+msgid "Address "
+msgstr ""
+
+#: views/admin-editparent.php:96
+msgid "Phone Primary"
+msgstr ""
+
+#: views/admin-editparent.php:100
+msgid "Phone Secondary"
+msgstr ""
+
+#: views/admin-editparent.php:113
+msgid "Custom Field"
+msgstr ""
+
+#: views/admin-editparent.php:115
+msgid "Field value"
+msgstr ""
+
+#: views/admin-editparent.php:128
+msgid "Billing Agreement History"
+msgstr ""
+
+#: views/admin-editparent.php:135
+msgid "<strong>Note on updating billing:</strong><br/>Altered numbers entered here will be <b>automatically</b> charged for future scheduled payments.<br/> Payments that have <b>already</b> been processed (ie past payments) need to be manually modified using Stripe to credit or debit any amounts."
+msgstr ""
+
+#: views/admin-editparent.php:141
+msgid "Billing Agreement ID"
+msgstr ""
+
+#: views/admin-editparent.php:149
+msgid "Stripe Customer ID"
+msgstr ""
+
+#: views/admin-editparent.php:150
+msgid "Enables online payments"
+msgstr ""
+
+#: views/admin-editparent.php:206
+msgid "Update totals automatically"
+msgstr ""
+
+#: views/admin-editparent.php:215
+msgid "Save changes"
+msgstr ""
+
+#: views/admin-editparent.php:235
+msgid "Add an additional student"
+msgstr ""
+
+#: views/admin-editparent.php:235
+msgid "Add a student"
+msgstr ""
+
+#: views/admin-viewcustomclasslist.php:2
+msgid "Custom List"
+msgstr ""
+
+#: views/admin-viewcustomclasslist.php:17
+msgid "Classroom: "
+msgstr ""
+
+#: views/admin-viewcustomclasslist.php:18
+msgid "Day: "
+msgstr ""
+
+#: views/admin-viewcustomclasslist.php:19
+msgid "Time: "
+msgstr ""
+
+#: views/admin-viewcustomclasslist.php:20
+msgid "Class target ages: "
+msgstr ""
+
+#: views/admin-viewcustomclasslist.php:48
+#: views/admin-studentdatasheet.php:81
+msgid "Bust"
+msgstr ""
+
+#: views/admin-viewcustomclasslist.php:49
+#: views/admin-studentdatasheet.php:85
+msgid "Waist"
+msgstr ""
+
+#: views/admin-viewcustomclasslist.php:50
+#: views/admin-studentdatasheet.php:89
+msgid "Hips"
+msgstr ""
+
+#: views/admin-viewcustomclasslist.php:51
+#: views/admin-studentdatasheet.php:93
+msgid "Inseam"
+msgstr ""
+
+#: views/admin-viewcustomclasslist.php:52
+#: views/admin-studentdatasheet.php:97
+msgid "Girth"
+msgstr ""
+
+#: views/reg_stage22__premium_only.php:1
+msgid "1. Enter Each Student's Details"
+msgstr ""
+
+#: views/reg_stage22__premium_only.php:2
+msgid "There is a simple four step process to registering your student with"
+msgstr ""
+
+#: views/reg_stage22__premium_only.php:4
+msgid "Student(s) details"
+msgstr ""
+
+#: views/reg_stage22__premium_only.php:6
+msgid "Build your student's personal dance schedule"
+msgstr ""
+
+#: views/reg_stage22__premium_only.php:7
+msgid "Pay your fees and access Parent Portal online to keep informed and monitor your student's progress in the months ahead."
+msgstr ""
+
+#: views/reg_stage22__premium_only.php:13
+msgid "Fields marked with an asterisk are required."
+msgstr ""
+
+#: views/reg_stage22__premium_only.php:128
+msgid "Same address as first student?"
+msgstr ""
+
+#: views/reg_stage22__premium_only.php:195
+msgid "Emergency Contact*"
+msgstr ""
+
+#: views/reg_stage22__premium_only.php:196
+msgid "(Someone who can be contacted in an emergency if you are not available)"
+msgstr ""
+
+#: views/reg_stage22__premium_only.php:204
+msgid "Emergency Contact Phone*"
+msgstr ""
+
+#: views/reg_stage22__premium_only.php:212
+msgid "Emergency Contact's relationship to you"
+msgstr ""
+
+#: views/admin-editstudent.php:9
+msgid " <b>Note:</b> You are viewing an incomplete/unconfirmed registration. Values cannot be changed."
+msgstr ""
+
+#: views/admin-editstudent.php:16
+msgid "Student Manager"
+msgstr ""
+
+#: views/admin-editstudent.php:16
+msgid "View Parent/Guardian"
+msgstr ""
+
+#: views/admin-editstudent.php:17
+msgid "View Data Sheet"
+msgstr ""
+
+#: views/admin-editstudent.php:55
+msgid "This student has been disabled."
+msgstr ""
+
+#: views/admin-editstudent.php:69
+#: views/admin-studentdatasheet.php:29
+msgid "Date of Birth (YYYY-MM-DD)"
+msgstr ""
+
+#: views/admin-editstudent.php:83
+msgid "Schedule Available"
+msgstr ""
+
+#: views/admin-editstudent.php:103
+#: views/admin-studentdatasheet.php:51
+msgid "Same Address as parent/guardian"
+msgstr ""
+
+#: views/admin-editstudent.php:135
+msgid "Save Student"
+msgstr ""
+
+#: views/admin-editstudent.php:144
+msgid "Deleting student from this class will also recalculate parent's fee schedule. Note: parent will not be automatically notified of new fees, and any refunds will need to be processed through Stripe or by cheque"
+msgstr ""
+
+#: views/admin-editstudent.php:144
+msgid "Remove Class"
+msgstr ""
+
+#: views/admin-editstudent.php:151
+msgid "Class recommendations"
+msgstr ""
+
+#: views/admin-editstudent.php:224
+msgid "Update scheduled payments with new class fees"
+msgstr ""
+
+#: views/admin-editstudent.php:246
+msgid "Select Weekday"
+msgstr ""
+
+#: views/admin-pendingpayments__premium_only.php:1
+msgid "Parent Management - Pending Payments"
+msgstr ""
+
+#: views/admin-pendingpayments__premium_only.php:5
+#: views/admin-incompleteregistrations.php:3
+msgid "Return to Parent Managment main page"
+msgstr ""
+
+#: views/admin-pendingpayments__premium_only.php:7
+msgid "View current pending payments and the due date for receipt of cheques"
+msgstr ""
+
+#: views/admin-pendingpayments__premium_only.php:19
+msgid "Due By date"
+msgstr ""
+
+#: views/admin-pendingpayments__premium_only.php:20
+msgid "Reminder Sent"
+msgstr ""
+
+#: views/admin-options.php:2
+#: dance-admin.php:29
+msgid "Options"
+msgstr ""
+
+#: views/admin-options.php:7
+#: views/admin-options.php:14
+msgid "Front end integration"
+msgstr ""
+
+#: views/admin-options.php:19
+msgid "Sessions"
+msgstr ""
+
+#: views/admin-options.php:37
+msgid "Add New Session:"
+msgstr ""
+
+#: views/admin-options.php:44
+msgid "Generic - Everyone"
+msgstr ""
+
+#: views/admin-options.php:45
+msgid "The session all your site users and clients will use on public pages (eg for new registrations and all current data)"
+msgstr ""
+
+#: views/admin-options.php:73
+msgid "Your Working Session"
+msgstr ""
+
+#: views/admin-options.php:74
+msgid "To work on or view data from a session other that the default current session, select it here. This is useful for working with archived data."
+msgstr ""
+
+#: views/admin-options.php:102
+msgid "Copy Session Classes"
+msgstr ""
+
+#: views/admin-options.php:103
+msgid "This tool will copy classes from an archived session to the current default session."
+msgstr ""
+
+#: views/admin-options.php:114
+msgid "Classes from session:"
+msgstr ""
+
+#: views/admin-options.php:132
+msgid "Copy Session Parents and Students"
+msgstr ""
+
+#: views/admin-options.php:133
+msgid "This tool will copy parents and students from another session in bulk. All parents and students will be marked as 'inactive' by default. Parents who never completed registration, or students who are marked as inactive in the old session will not be copied."
+msgstr ""
+
+#: views/admin-options.php:144
+msgid "Parents and students from session:"
+msgstr ""
+
+#: views/admin-options.php:163
+msgid "Contact Options"
+msgstr ""
+
+#: views/admin-options.php:190
+msgid "Postal/Zip Code"
+msgstr ""
+
+#: views/admin-options.php:195
+msgid "Telephone"
+msgstr ""
+
+#: views/admin-options.php:211
+msgid "Fees and Taxes"
+msgstr ""
+
+#: views/admin-options.php:220
+msgid "Classes One-Time Flat Fee"
+msgstr ""
+
+#: views/admin-options.php:224
+msgid "Costume Fee"
+msgstr ""
+
+#: views/admin-options.php:229
+msgid "Tax Percent"
+msgstr ""
+
+#: views/admin-options.php:234
+msgid "Global Class Installment Fees"
+msgstr ""
+
+#: views/admin-options.php:239
+#: views/admin-charge-receipt__premium_only.php:19
+#: views/admin-editclass.php:161
+msgid "Fee"
+msgstr ""
+
+#: views/admin-options.php:244
+msgid "No Installments Defined"
+msgstr ""
+
+#: views/admin-options.php:262
+msgid "Mailing Options"
+msgstr ""
+
+#: views/admin-options.php:267
+msgid "Signature Image"
+msgstr ""
+
+#: views/admin-options.php:277
+msgid "Signature Description"
+msgstr ""
+
+#: views/admin-options.php:285
+msgid "Stripe Options"
+msgstr ""
+
+#: views/admin-options.php:286
+msgid "Set the Stripe percentage (an optional extra fee to charge customers paying online), and API keys to integrate DancePress with Stripe secure online payments."
+msgstr ""
+
+#: views/admin-options.php:290
+msgid "Stripe Percent"
+msgstr ""
+
+#: views/admin-options.php:295
+msgid "Secret Key"
+msgstr ""
+
+#: views/admin-options.php:300
+msgid "Publishable Key"
+msgstr ""
+
+#: views/admin-options.php:305
+msgid "Currency"
+msgstr ""
+
+#: views/admin-options.php:322
+msgid "Other Options"
+msgstr ""
+
+#: views/admin-options.php:327
+msgid "Default State/Province/County"
+msgstr ""
+
+#: views/admin-options.php:331
+msgid "Default Country"
+msgstr ""
+
+#: views/admin-options.php:589
+msgid "Default City"
+msgstr ""
+
+#: views/admin-options.php:593
+msgid "Max students per class (0 disables). Set to 100 at installation)"
+msgstr ""
+
+#: views/admin-options.php:600
+msgid "Allow public event ticket sales"
+msgstr ""
+
+#: views/admin-options.php:604
+msgid "Withdrawal Policy"
+msgstr ""
+
+#: views/admin-options.php:608
+msgid "Schedule page (input URL)"
+msgstr ""
+
+#: views/reg_stage4__premium_only.php:5
+msgid "4. Payment Information"
+msgstr ""
+
+#: views/reg_stage4__premium_only.php:8
+msgid "Student(s) Details"
+msgstr ""
+
+#: views/reg_stage4__premium_only.php:45
+msgid "Please see below a breakdown of payments and transaction fees, and to select your method of payment."
+msgstr ""
+
+#: views/reg_stage4__premium_only.php:55
+msgid "Non-refundable Registration Fee:"
+msgstr ""
+
+#: views/reg_stage4__premium_only.php:64
+msgid "Total Payable Now (credit card)"
+msgstr ""
+
+#: views/reg_stage4__premium_only.php:67
+msgid "Total Payable Now (cheque)"
+msgstr ""
+
+#: views/reg_stage4__premium_only.php:91
+msgid "Total Installment "
+msgstr ""
+
+#: views/reg_stage4__premium_only.php:91
+#: views/admin-purchased-tickets.php:37
+#: views/admin-billingreceipt__premium_only.php:97
+msgid "Tax"
+msgstr ""
+
+#: views/reg_stage4__premium_only.php:97
+msgid "Total Payment (credit card)"
+msgstr ""
+
+#: views/reg_stage4__premium_only.php:103
+msgid "Total Payment (cheque)"
+msgstr ""
+
+#: views/reg_stage4__premium_only.php:114
+msgid "Agreement for Service"
+msgstr ""
+
+#: views/reg_stage4__premium_only.php:119
+msgid " Withdrawal Policy"
+msgstr ""
+
+#: views/reg_stage4__premium_only.php:121
+msgid "All withdrawal notifications must be submitted by email to "
+msgstr ""
+
+#: views/reg_stage4__premium_only.php:123
+msgid "Should students/parents notify the office of a withdrawal at any time during an installment period, that installment period is forfeited. Refunds will not be issued."
+msgstr ""
+
+#: views/reg_stage4__premium_only.php:124
+msgid "If the class is paid in full, "
+msgstr ""
+
+#: views/reg_stage4__premium_only.php:124
+msgid "will reimburse the client for any remaining installment periods."
+msgstr ""
+
+#: views/reg_stage4__premium_only.php:125
+msgid "The registration fee is non-refundable."
+msgstr ""
+
+#: views/reg_stage4__premium_only.php:130
+msgid "I have read and agree to abide by the Agreement for Service and the Withdrawal Policy."
+msgstr ""
+
+#: views/admin-charge-receipt__premium_only.php:1
+msgid "A payment has been processed by"
+msgstr ""
+
+#: views/admin-charge-receipt__premium_only.php:4
+msgid "This is to notify you that a payment has been charged to your credit card."
+msgstr ""
+
+#: views/admin-charge-receipt__premium_only.php:7
+msgid "Payment received at"
+msgstr ""
+
+#: views/admin-charge-receipt__premium_only.php:11
+msgid "Client name"
+msgstr ""
+
+#: views/admin-charge-receipt__premium_only.php:15
+msgid "Scheduled Payment"
+msgstr ""
+
+#: views/admin-charge-receipt__premium_only.php:23
+msgid "Card charged"
+msgstr ""
+
+#: views/admin-charge-receipt__premium_only.php:28
+msgid "Thank you"
+msgstr ""
+
+#: views/parentprofile__premium_only.php:1
+msgid "Parent Profile"
+msgstr ""
+
+#: views/parentprofile__premium_only.php:15
+#: views/admin-purchased-tickets.php:34
+msgid "Parent"
+msgstr ""
+
+#: views/parentprofile__premium_only.php:20
+msgid "Parent's first name*"
+msgstr ""
+
+#: views/parentprofile__premium_only.php:29
+msgid "Parent's last name*"
+msgstr ""
+
+#: views/parentprofile__premium_only.php:93
+msgid ""
+"Email Address/Login Username*\n"
+"\t\t\t\t\t\t(Note: changes will automatically update your username and log you out of the system)"
+msgstr ""
+
+#: views/parentprofile__premium_only.php:102
+msgid "New password"
+msgstr ""
+
+#: views/parentprofile__premium_only.php:110
+msgid "Confirm password"
+msgstr ""
+
+#: views/parentprofile__premium_only.php:118
+#: views/admin-create-group__premium_only.php:11
+msgid "Save"
+msgstr ""
+
+#: views/parentprofile__premium_only.php:161
+#: views/admin-addchild.php:124
+msgid "Please enter First Name"
+msgstr ""
+
+#: views/parentprofile__premium_only.php:162
+#: views/admin-addchild.php:125
+msgid "Please enter Last Name"
+msgstr ""
+
+#: views/parentprofile__premium_only.php:163
+msgid "Please enter Street Address"
+msgstr ""
+
+#: views/parentprofile__premium_only.php:164
+msgid "Please enter City"
+msgstr ""
+
+#: views/parentprofile__premium_only.php:165
+msgid "Please enter Postal Code"
+msgstr ""
+
+#: views/parentprofile__premium_only.php:166
+msgid "Please enter Primary phone"
+msgstr ""
+
+#: views/parentprofile__premium_only.php:167
+msgid "Please enter Email addres"
+msgstr ""
+
+#: views/reg_stage3__premium_only.php:1
+msgid "3. Select Your Class(es)"
+msgstr ""
+
+#: views/reg_stage3__premium_only.php:13
+msgid "ADMIN USER REGISTRATION: FULL AND COMPETITIVE CLASSES ARE SHOWN."
+msgstr ""
+
+#: views/reg_stage3__premium_only.php:17
+msgid "Admin users: show classes for all ages and disciplines:"
+msgstr ""
+
+#: views/reg_stage3__premium_only.php:23
+msgid " Recreational Schedule"
+msgstr ""
+
+#: views/reg_stage3__premium_only.php:23
+msgid " to help you select classes."
+msgstr ""
+
+#: views/reg_stage3__premium_only.php:29
+msgid "Recommended Classes"
+msgstr ""
+
+#: views/reg_stage3__premium_only.php:35
+msgid "Recommended for:"
+msgstr ""
+
+#: views/reg_stage3__premium_only.php:37
+#: views/reg_stage3__premium_only.php:104
+msgid "Day/Time"
+msgstr ""
+
+#: views/reg_stage3__premium_only.php:38
+msgid "Enroll"
+msgstr ""
+
+#: views/reg_stage3__premium_only.php:65
+#: views/reg_stage3__premium_only.php:165
+msgid "Please note that this class is full. Please "
+msgstr ""
+
+#: views/reg_stage3__premium_only.php:65
+#: views/reg_stage3__premium_only.php:165
+msgid " with any questions."
+msgstr ""
+
+#: views/reg_stage3__premium_only.php:88
+#: views/reg_stage3__premium_only.php:186
+msgid "Register and Proceed to Checkout"
+msgstr ""
+
+#: views/reg_stage3__premium_only.php:91
+msgid "Other Classes Available"
+msgstr ""
+
+#: views/reg_stage3__premium_only.php:91
+msgid "Classes Available To Your Student(s)"
+msgstr ""
+
+#: views/reg_stage3__premium_only.php:130
+msgid " (Age: "
+msgstr ""
+
+#: views/reg_stage3__premium_only.php:131
+msgid "Category: "
+msgstr ""
+
+#: views/reg_stage3__premium_only.php:134
+msgid "Enrollment: "
+msgstr ""
+
+#: views/admin-create-group__premium_only.php:1
+msgid "Create Mailing List Group"
+msgstr ""
+
+#: views/admin-create-group__premium_only.php:2
+msgid "A mailing list group contains a collection of emails that can be messaged together"
+msgstr ""
+
+#: views/admin-create-group__premium_only.php:6
+msgid "Add "
+msgstr ""
+
+#: views/admin-create-group__premium_only.php:6
+msgid "selected client(s) to new group"
+msgstr ""
+
+#: views/admin-create-group__premium_only.php:10
+msgid "Name of mailing group"
+msgstr ""
+
+#: views/admin-addclasscategory.php:1
+#: dance-admin.php:35
+msgid "Add Class Category"
+msgstr ""
+
+#: views/admin-studentdatasheet.php:1
+msgid "Student Data"
+msgstr ""
+
+#: views/admin-studentdatasheet.php:73
+msgid "Costume"
+msgstr ""
+
+#: views/admin-studentdatasheet.php:77
+msgid "Size"
+msgstr ""
+
+#: views/admin-venues.php:5
+msgid "View and edit venues."
+msgstr ""
+
+#: views/admin-venues.php:17
+msgid "Delete venues"
+msgstr ""
+
+#: views/classcalendar.php:1
+msgid "Student Class Schedule "
+msgstr ""
+
+#: views/classcalendar.php:6
+msgid "Course name:"
+msgstr ""
+
+#: views/classcalendar.php:7
+msgid "Day and Time:"
+msgstr ""
+
+#: views/classcalendar.php:8
+msgid "Course runs:"
+msgstr ""
+
+#: views/classcalendar.php:9
+msgid "Classroom:"
+msgstr ""
+
+#: views/classcalendar.php:14
+msgid "This student's class schedule is currently not available."
+msgstr ""
+
+#: views/admin-payments__premium_only.php:1
+#: dance-admin.php:20
+msgid "Payments"
+msgstr ""
+
+#: views/admin-payments__premium_only.php:3
+msgid "View payment totals"
+msgstr ""
+
+#: views/admin-payments__premium_only.php:8
+msgid "Total Received (This month):"
+msgstr ""
+
+#: views/admin-payments__premium_only.php:12
+msgid "Total Received (This year):"
+msgstr ""
+
+#: views/admin-payments__premium_only.php:16
+msgid "Total Scheduled (This month):"
+msgstr ""
+
+#: views/admin-payments__premium_only.php:20
+msgid "Total Scheduled (This year):"
+msgstr ""
+
+#: views/admin-payments__premium_only.php:24
+msgid "Total (This month):"
+msgstr ""
+
+#: views/admin-payments__premium_only.php:28
+msgid "Total (This year):"
+msgstr ""
+
+#: views/admin-addchild.php:31
+msgid "Birth date"
+msgstr ""
+
+#: views/admin-addchild.php:49
+#: views/admin-classenrollment.php:52
+msgid "Medical"
+msgstr ""
+
+#: views/admin-addchild.php:53
+msgid "Acro years"
+msgstr ""
+
+#: views/admin-addchild.php:57
+msgid "Ballet years"
+msgstr ""
+
+#: views/admin-addchild.php:61
+msgid "Jazz years"
+msgstr ""
+
+#: views/admin-addchild.php:65
+msgid "Tap years"
+msgstr ""
+
+#: views/admin-addchild.php:69
+msgid "Address (if different from parent/guardian)"
+msgstr ""
+
+#: views/admin-addchild.php:73
+msgid "Address2 (if different from parent/guardian)"
+msgstr ""
+
+#: views/admin-addchild.php:77
+msgid "City (if different from parent/guardian)"
+msgstr ""
+
+#: views/admin-addchild.php:81
+msgid "Postal code (if different from parent/guardian)"
+msgstr ""
+
+#: views/admin-addchild.php:85
+msgid "Custom field name"
+msgstr ""
+
+#: views/admin-addchild.php:126
+msgid "Please enter Birth date"
+msgstr ""
+
+#: views/admin-editclass.php:1
+msgid "Edit All Classes in a Course"
+msgstr ""
+
+#: views/admin-editclass.php:57
+msgid "Age Range"
+msgstr ""
+
+#: views/admin-editclass.php:58
+msgid "Please enter as a number or range of numbers<br/> separated by a hyphen (eg. '8', '10+' or '18-80')"
+msgstr ""
+
+#: views/admin-editclass.php:63
+msgid "Experience Required (years)"
+msgstr ""
+
+#: views/admin-editclass.php:72
+msgid "All competitive classes are currently hidden from public registration"
+msgstr ""
+
+#: views/admin-editclass.php:80
+msgid "Recreational"
+msgstr ""
+
+#: views/admin-editclass.php:81
+msgid "Competitive"
+msgstr ""
+
+#: views/admin-editclass.php:88
+msgid "Available to public online registrations"
+msgstr ""
+
+#: views/admin-editclass.php:90
+msgid "Not available for public registration"
+msgstr ""
+
+#: views/admin-editclass.php:91
+msgid "Available for public registration"
+msgstr ""
+
+#: views/admin-editclass.php:138
+msgid ""
+"You can select one of four different methods to charge your clients: <br/>\n"
+"\t\t\t\t<ol>\n"
+"\t\t\t\t\t<li> Global installments set on the"
+msgstr ""
+
+#: views/admin-editclass.php:140
+msgid "DancePress Options Page"
+msgstr ""
+
+#: views/admin-editclass.php:141
+msgid "A flat fee."
+msgstr ""
+
+#: views/admin-editclass.php:142
+msgid "Custom course installments set below."
+msgstr ""
+
+#: views/admin-editclass.php:143
+msgid "Using WooCommerce via the <a href=\"https://dancepress.ca/woocommerce-add-on-for-dancepress/\">DancePress WooCommerce add-on</a>"
+msgstr ""
+
+#: views/admin-editclass.php:148
+msgid "Method 1: Use Global Installments"
+msgstr ""
+
+#: views/admin-editclass.php:152
+msgid "Method 2: Class Flat Fee "
+msgstr ""
+
+#: views/admin-editclass.php:156
+msgid "Method 3: Set Custom Installment Fees:"
+msgstr ""
+
+#: views/admin-editclass.php:191
+msgid "Costume Fee "
+msgstr ""
+
+#: views/admin-editclass.php:225
+msgid "Please enter Class Name"
+msgstr ""
+
+#: views/admin-editclass.php:226
+msgid "Please enter Classroom"
+msgstr ""
+
+#: views/admin-editclass.php:227
+msgid "Please select class category"
+msgstr ""
+
+#: views/admin-editclass.php:228
+msgid "Please select Class Teacher"
+msgstr ""
+
+#: views/admin-editclass.php:229
+msgid "Please enter Start Date"
+msgstr ""
+
+#: views/admin-editclass.php:230
+msgid "Please enter End Date"
+msgstr ""
+
+#: views/admin-editclass.php:231
+msgid "Please enter Start Time"
+msgstr ""
+
+#: views/admin-editclass.php:232
+msgid "Please enter End Time"
+msgstr ""
+
+#: views/admin-sendemail__premium_only.php:1
+msgid "Send Email"
+msgstr ""
+
+#: views/admin-sendemail__premium_only.php:2
+msgid "A tool for sending emails to sections of the client list, or the entire client list."
+msgstr ""
+
+#: views/admin-sendemail__premium_only.php:9
+msgid "Sending to "
+msgstr ""
+
+#: views/admin-sendemail__premium_only.php:9
+msgid "selected client(s)"
+msgstr ""
+
+#: views/admin-sendemail__premium_only.php:14
+msgid "Manage groups"
+msgstr ""
+
+#: views/admin-sendemail__premium_only.php:15
+msgid "Select Group:"
+msgstr ""
+
+#: views/admin-sendemail__premium_only.php:17
+msgid "Select a mailing group"
+msgstr ""
+
+#: views/admin-sendemail__premium_only.php:18
+msgid "All parents (auto group)"
+msgstr ""
+
+#: views/admin-sendemail__premium_only.php:19
+msgid "Recreational (auto group)"
+msgstr ""
+
+#: views/admin-sendemail__premium_only.php:20
+msgid "Company (auto group)"
+msgstr ""
+
+#: views/admin-sendemail__premium_only.php:28
+msgid "Regular message"
+msgstr ""
+
+#: views/admin-sendemail__premium_only.php:29
+msgid "Send Class Recommendations"
+msgstr ""
+
+#: views/admin-sendemail__premium_only.php:34
+msgid "Subject"
+msgstr ""
+
+#: views/admin-classenrollment.php:10
+msgid "Class Enrollment"
+msgstr ""
+
+#: views/admin-classenrollment.php:19
+msgid "Classroom"
+msgstr ""
+
+#: views/admin-classenrollment.php:22
+msgid "Class target ages"
+msgstr ""
+
+#: views/admin-classenrollment.php:49
+msgid "Dancer"
+msgstr ""
+
+#: views/admin-classenrollment.php:50
+msgid "Birthdate"
+msgstr ""
+
+#: views/admin-purchased-tickets.php:2
+msgid "Purchased Tickets"
+msgstr ""
+
+#: views/admin-purchased-tickets.php:35
+msgid "Qualtity"
+msgstr ""
+
+#: views/admin-managegroups__premium_only.php:1
+#: dance-admin.php:22
+msgid "Manage Email Groups"
+msgstr ""
+
+#: views/admin-managegroups__premium_only.php:6
+msgid "Note: To create a group, go to the <a href=\"/wp-admin/admin.php?page=admin-manageparents\">client management page</a> and select the clients you wish to be included in the group."
+msgstr ""
+
+#: views/admin-managegroups__premium_only.php:6
+msgid "Alternatively, you can email individual classes through the <a href=\"/wp-admin/admin.php?page=admin-listclass\">Course manager page</a>"
+msgstr ""
+
+#: views/admin-managegroups__premium_only.php:15
+msgid "Are you sure you want to delete this group."
+msgstr ""
+
+#: views/admin-incompleteregistrations.php:1
+msgid "Parent Management - Incomplete Registrations"
+msgstr ""
+
+#: views/admin-incompleteregistrations.php:5
+msgid "View incomplete registrations. Data will not always be complete and duplicate entries are likely. Incomplete registrations, client and student data should not be edited, but can be deleted. If the client wishes to complete the registration, please ask them to start over, or use a fresh admin registration."
+msgstr ""
+
+#: views/admin-incompleteregistrations.php:29
+msgid "Do you want to completely delete this incomplete registration?"
+msgstr ""
+
+#: views/admin-billingreceipt__premium_only.php:4
+msgid "Print Receipt"
+msgstr ""
+
+#: views/admin-billingreceipt__premium_only.php:5
+msgid "Receipt"
+msgstr ""
+
+#: views/admin-billingreceipt__premium_only.php:24
+msgid "Billing&nbsp;Id"
+msgstr ""
+
+#: views/admin-billingreceipt__premium_only.php:25
+msgid "Customer&nbsp;#"
+msgstr ""
+
+#: views/admin-billingreceipt__premium_only.php:33
+msgid "Tel. "
+msgstr ""
+
+#: views/admin-billingreceipt__premium_only.php:41
+msgid "Bill to"
+msgstr ""
+
+#: views/admin-billingreceipt__premium_only.php:55
+msgid "Student Date(s) of Birth"
+msgstr ""
+
+#: views/admin-billingreceipt__premium_only.php:70
+msgid "Item"
+msgstr ""
+
+#: views/admin-billingreceipt__premium_only.php:71
+msgid "Price"
+msgstr ""
+
+#: views/admin-billingreceipt__premium_only.php:75
+msgid "Dance School Fees"
+msgstr ""
+
+#: views/admin-billingreceipt__premium_only.php:81
+#: views/admin-billingreceipt__premium_only.php:93
+msgid "Subtotal"
+msgstr ""
+
+#: dance-admin.php:14
+msgid "Course Management"
+msgstr ""
+
+#: dance-admin.php:15
+msgid "Student Management"
+msgstr ""
+
+#: dance-admin.php:16
+msgid "Client Management"
+msgstr ""
+
+#: dance-admin.php:21
+msgid "Send Emails to Groups"
+msgstr ""
+
+#: dance-admin.php:26
+msgid "Venues"
+msgstr ""
+
+#: dance-admin.php:27
+msgid "Events"
+msgstr ""
+
+#: dance-admin.php:33
+msgid "Add Courses"
+msgstr ""
+
+#: dance-admin.php:34
+msgid "Course Categories"
+msgstr ""
+
+#: dance-admin.php:36
+msgid "Edit Class Category"
+msgstr ""
+
+#: dance-admin.php:37
+msgid "Edit Class"
+msgstr ""
+
+#: dance-admin.php:38
+msgid "Edit Child Class"
+msgstr ""
+
+#: dance-admin.php:39
+msgid "Edit All Classes"
+msgstr ""

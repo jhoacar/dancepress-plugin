@@ -1,0 +1,225 @@
+.clickable{cursor:pointer;}
+.hiddenex{display: none;}
+span.clickable{color:#00c;}
+table.gridtable {
+	font-family: verdana,arial,sans-serif;
+	font-size:11px;
+	color:#333333;
+	border-width: 1px;
+	border-color: #666666;
+	border-collapse: collapse;
+}
+table.gridtable th {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #666666;
+	background-color: #dedede;
+}
+table.gridtable td {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #666666;
+	background-color: #ffffff;
+}
+
+table.gridtable td input[type="text"],
+table.gridtable td input[type="email"],
+table.gridtable td input[type="file"],
+table.gridtable td input[type="password"],
+table.gridtable td input[type="tel"],
+table.gridtable td textarea,
+table.gridtable td select {
+	width:100%;
+}
+
+table.options-table {
+	min-width:750px;
+}
+table.options-table .multi-fees{
+	text-align: right;
+}
+
+table.gridtable td .quicktags-toolbar input[type="button"] {
+	width:auto !important;
+}
+
+
+label[class="error"]{
+	color:red;
+}
+
+.searchbox{
+	border: 1px solid #bbb;
+	background-color: #ddd;
+	border-radius: 3px;
+	padding: 10px;
+	max-width: 400px;
+}
+
+#ds-venue, #ds-event {margin: 10px;}
+#ds-student, #ds-parent {float: left; margin: 10px;}
+#ds-parent input[type="text"]{
+	width: 250px;
+}
+#ds-parent table{width: 800px}
+.ds-class {
+	border-width: 1px;
+	padding: 8px;
+	margin: 10px 10px 10px 10px;
+	border-style: solid;
+	border-color: #666666;
+	background-color: #ffffff;
+	width: 100%;
+}
+.ds-enrollment {
+	border-width: 1px;
+	padding: 8px;
+	margin: 10px 10px 10px 0px;
+	border-style: solid;
+	border-color: #666666;
+	background-color: #ffffff;
+	width: 500px;
+}
+.ds-classlist{
+	list-style: circle inside;
+	margin-bottom: 0;
+}
+#ds-enrollment-customage select{font-size:.8em;height:20px;}
+
+.ds-grid {
+    display: grid;
+    grid-template-columns: 40% 40%;
+}
+#ds-student .gridtable{
+    width: 100%;
+}
+
+.dashicons-dismiss {color: red;}
+
+.tablesortable th:hover {
+	cursor:pointer;
+}
+.headerSortDown:after{
+	content: "\f140";
+	font-family: "dashicons";
+	padding: 5px;
+}
+.headerSortUp:after{
+	content: "\f142";
+	font-family: "dashicons";
+	padding: 5px;
+}
+
+.editable-date-input {
+	display: none;
+}
+
+#admin-reports fieldset{border:1px solid #ccc;padding:5px; display:inline;vertical-align:top;}
+#admin-reports fieldset fieldset{display:inline;}
+#admin-reports table th input{width:100px;}
+
+.error {padding: 3px 10px; border-left: 3px solid red; background-color: #FFD6D6;}
+.small {font-size: 80%}
+.bold {font-weight: bold}
+
+.duplicate{display:none; color: red;}
+
+.student-measurements textarea {font-size: 20px}
+
+table.student-measurements td{
+	padding-left: 0;
+	padding-right: 0;
+}
+
+#editevent-form .event-image,
+#addevent-form .event-image {
+	width:150px;
+	display:block
+}
+
+.border-none {
+	border:none !important;
+}
+
+.dance-table {
+	max-width:1000px;
+}
+
+.dance-table thead tr td:nth-child(1),
+.dance-table thead tr th:nth-child(1) {
+	width:333px;
+}
+
+table.gridtable {
+	font-family: verdana,arial,sans-serif;
+	font-size:11px;
+	color:#333333;
+	border-width: 1px;
+	border-color: #bbb;
+	border-collapse: collapse;
+}
+table.gridtable th {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #bbb;
+	background-color: #dedede;
+}
+table.gridtable td {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #bbb;
+	background-color: #ffffff;
+}
+
+.red {
+	color: red;
+}
+
+.green {
+	color: #48B450;
+}
+
+.billing-custom-payment-form table {
+	width: 450px;
+}
+
+@media print {
+
+	#adminmenuwrap, #wpadminbar, #buttonhide, #footer-thankyou, .update-nag, .editable-date-input {display: none!important;}
+	#wpcontent {margin-left: 0; font-size: larger;}
+
+	h1 {
+		color: #000;
+		background: none;
+	}
+
+	nav, aside {
+		display: none;
+	}
+
+	body, article {
+		width: 100%;
+		margin: 0;
+		padding: 0;
+	}
+
+	@page {
+		margin: 2cm;
+	}
+
+	.ww-receipt{
+		width: 100% !important;
+		border-bottom: 0;
+		margin-bottom: 0;
+	}
+	.receipt-detail{
+		min-width: 200px;
+	}
+	#adminmenuback {
+		display: none;
+	}
+}
